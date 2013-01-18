@@ -3,6 +3,9 @@ source 'http://rubygems.org'
 gem 'rails', '3.1.1'
 gem 'thin'
 
+
+gem 'bootstrap-sass'
+
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
